@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "624192963784",
+    "firebase_url": "https://valereportcard.firebaseio.com",
+    "project_id": "valereportcard",
+    "storage_bucket": "valereportcard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624192963784:android:870863a591cd12fb",
+        "android_client_info": {
+          "package_name": "com.example.android.valereportcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624192963784-en15ivdcgah7il909a8gth2rqqpngfaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.valereportcard",
+            "certificate_hash": "c6f6e402b04262a9819e58af2ca0f2ea62b05be1"
+          }
+        },
+        {
+          "client_id": "624192963784-2bv87vigdtc7vt3n7249iagib4cb3gug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ95HknuZFTCm6zXtOPxkX5QYH6WvxsM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624192963784-2bv87vigdtc7vt3n7249iagib4cb3gug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
